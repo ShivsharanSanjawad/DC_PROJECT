@@ -1,0 +1,62 @@
+{
+  "24Companies.xlsx": {
+    "uploadTo": "http://localhost:8001",
+    "filename": "24Companies.xlsx",
+    "blocks": [
+      {
+        "blockId": "blk-24Companies.xlsx-0001",
+        "size": 19988,
+        "replicaNodes": [
+          "http://localhost:10001",
+          "http://localhost:10002",
+          "http://localhost:10003"
+        ]
+      }
+    ]
+  },
+  "CNS_ISE2_GROUP_5.pdf": {
+    "uploadTo": "http://localhost:8001",
+    "filename": "CNS_ISE2_GROUP_5.pdf",
+    "blocks": [
+      {
+        "blockId": "blk-CNS_ISE2_GROUP_5.pdf-0001",
+        "size": 221659,
+        "replicaNodes": [
+          "http://localhost:10001",
+          "http://localhost:10002",
+          "http://localhost:10003"
+        ]
+      }
+    ]
+  },
+  "CNS_ISE2_GROUP_5_Answers.pdf": {
+    "uploadTo": "http://localhost:8003",
+    "filename": "CNS_ISE2_GROUP_5_Answers.pdf",
+    "blocks": [
+      {
+        "blockId": "blk-CNS_ISE2_GROUP_5_Answers.pdf-0001",
+        "size": 221659,
+        "replicaNodes": [
+          "http://localhost:10001",
+          "http://localhost:10002",
+          "http://localhost:10003"
+        ]
+      }
+    ]
+  },
+  "MockInterview.pdf": {
+    "uploadTo": "http://localhost:8002",
+    "filename": "MockInterview.pdf",
+    "blocks": [
+      {
+        "blockId": "blk-MockInterview.pdf-0001",
+        "size": 127533,
+        "replicaNodes": [
+          "http://localhost:10001",
+          "http://localhost:10002",
+          "http://localhost:10003"
+        ]
+      }
+    ]
+  }
+}

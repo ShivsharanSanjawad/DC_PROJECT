@@ -1,0 +1,6 @@
+com\dfs\shared\cluster\ClusterConfig$DataNodeRef.class
+com\dfs\shared\cluster\ClusterConfig.class
+com\dfs\shared\model\NodeStatus.class
+com\dfs\shared\cluster\ClusterConfig$NodeRef.class
+com\dfs\shared\cluster\ClusterConfig$1.class
+com\dfs\shared\cluster\ClusterConfig$Defaults.class

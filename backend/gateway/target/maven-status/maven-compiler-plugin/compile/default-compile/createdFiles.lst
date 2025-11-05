@@ -1,0 +1,7 @@
+com\dfs\gateway\service\DataStoreLocator.class
+com\dfs\gateway\controller\UploadController$UploadResult.class
+com\dfs\gateway\controller\UploadController$BlockData.class
+com\dfs\gateway\GatewayApplication.class
+com\dfs\gateway\controller\FileController.class
+com\dfs\gateway\controller\UploadController.class
+com\dfs\gateway\config\CorsConfig.class

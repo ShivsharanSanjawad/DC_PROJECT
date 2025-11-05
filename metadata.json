@@ -1,0 +1,92 @@
+{
+  "Article3.pdf": {
+    "uploadTo": "http://localhost:8001",
+    "filename": "Article3.pdf",
+    "blocks": [
+      {
+        "blockId": "blk-Article3.pdf-0001",
+        "size": 476498,
+        "replicaNodes": [
+          "http://localhost:10001",
+          "http://localhost:10002",
+          "http://localhost:10003"
+        ]
+      }
+    ]
+  },
+  "CNS-BTech-CE-Sem-V-2025-26-ISE-2-Groups - Sequence.pdf": {
+    "uploadTo": "http://localhost:8001",
+    "filename": "CNS-BTech-CE-Sem-V-2025-26-ISE-2-Groups - Sequence.pdf",
+    "blocks": [
+      {
+        "blockId": "blk-CNS-BTech-CE-Sem-V-2025-26-ISE-2-Groups - Sequence.pdf-0001",
+        "size": 353074,
+        "replicaNodes": [
+          "http://localhost:10001",
+          "http://localhost:10002",
+          "http://localhost:10003"
+        ]
+      }
+    ]
+  },
+  "MockInterview.pdf": {
+    "uploadTo": "http://localhost:8001",
+    "filename": "MockInterview.pdf",
+    "blocks": [
+      {
+        "blockId": "blk-MockInterview.pdf-0001",
+        "size": 127533,
+        "replicaNodes": [
+          "http://localhost:10001",
+          "http://localhost:10002",
+          "http://localhost:10003"
+        ]
+      }
+    ]
+  },
+  "certificate_for_gents_children.pdf": {
+    "uploadTo": "http://localhost:8001",
+    "filename": "certificate_for_gents_children.pdf",
+    "blocks": [
+      {
+        "blockId": "blk-certificate_for_gents_children.pdf-0001",
+        "size": 157604,
+        "replicaNodes": [
+          "http://localhost:10001",
+          "http://localhost:10002",
+          "http://localhost:10003"
+        ]
+      }
+    ]
+  },
+  "Counts.xlsx": {
+    "uploadTo": "http://localhost:8001",
+    "filename": "Counts.xlsx",
+    "blocks": [
+      {
+        "blockId": "blk-Counts.xlsx-0001",
+        "size": 31026,
+        "replicaNodes": [
+          "http://localhost:10001",
+          "http://localhost:10002",
+          "http://localhost:10003"
+        ]
+      }
+    ]
+  },
+  "Reunion 2000 (Responses).xlsx": {
+    "uploadTo": "http://localhost:8001",
+    "filename": "Reunion 2000 (Responses).xlsx",
+    "blocks": [
+      {
+        "blockId": "blk-Reunion 2000 (Responses).xlsx-0001",
+        "size": 8238,
+        "replicaNodes": [
+          "http://localhost:10001",
+          "http://localhost:10002",
+          "http://localhost:10003"
+        ]
+      }
+    ]
+  }
+}

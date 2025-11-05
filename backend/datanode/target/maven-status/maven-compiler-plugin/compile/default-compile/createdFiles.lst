@@ -1,0 +1,4 @@
+com\dfs\datanode\block\BlockServer.class
+com\dfs\datanode\config\CorsConfig.class
+com\dfs\datanode\controller\AdminController.class
+com\dfs\datanode\DataNodeApplication.class

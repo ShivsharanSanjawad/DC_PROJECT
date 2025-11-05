@@ -1,0 +1,22 @@
+{
+  "CNS_ISE2_GROUP_5_Answers.pdf" : {
+    "filename" : "CNS_ISE2_GROUP_5_Answers.pdf",
+    "filesize" : 221659,
+    "uploadNode" : "http://localhost:8003",
+    "blocks" : [ {
+      "blockId" : "blk-CNS_ISE2_GROUP_5_Answers.pdf-0001",
+      "size" : 221659,
+      "replicaNodes" : [ "http://localhost:10001", "http://localhost:10002", "http://localhost:10003" ]
+    } ]
+  },
+  "MockInterview.pdf" : {
+    "filename" : "MockInterview.pdf",
+    "filesize" : 127533,
+    "uploadNode" : "http://localhost:8002",
+    "blocks" : [ {
+      "blockId" : "blk-MockInterview.pdf-0001",
+      "size" : 127533,
+      "replicaNodes" : [ "http://localhost:10001", "http://localhost:10002", "http://localhost:10003" ]
+    } ]
+  }
+}

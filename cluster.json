@@ -1,0 +1,26 @@
+{
+	"namenodes": [
+		{"id": "nn1", "host": "localhost", "restPort": 9001},
+		{"id": "nn2", "host": "localhost", "restPort": 9002},
+		{"id": "nn3", "host": "localhost", "restPort": 9003}
+	],
+	"datanodes": [
+		{"id": "dn1", "host": "localhost", "restPort": 9101, "blockPort": 10001, "dataDir": "./data/dn1"},
+		{"id": "dn2", "host": "localhost", "restPort": 9102, "blockPort": 10002, "dataDir": "./data/dn2"},
+		{"id": "dn3", "host": "localhost", "restPort": 9103, "blockPort": 10003, "dataDir": "./data/dn3"},
+		{"id": "dn4", "host": "localhost", "restPort": 9104, "blockPort": 10004, "dataDir": "./data/dn4"},
+		{"id": "dn5", "host": "localhost", "restPort": 9105, "blockPort": 10005, "dataDir": "./data/dn5"}
+	],
+	"gateways": [
+		{"id": "gw1", "host": "localhost", "restPort": 9201},
+		{"id": "gw2", "host": "localhost", "restPort": 9202}
+	],
+	"defaults": {
+		"replicationFactor": 3,
+		"blockSizeMB": 128,
+		"heartbeatIntervalSec": 3,
+		"clockSyncIntervalSec": 30
+	}
+}
+
+
