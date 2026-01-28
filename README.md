@@ -1,4 +1,4 @@
-# Distributed File System (DFS) Mini Project
+# Distributed File System (DFS)
 
 A full-stack distributed file system implementation with a Java/Spring Boot backend and a modern Next.js frontend. This project demonstrates core HDFS concepts including NameNodes, DataNodes, and a Gateway API.
 
